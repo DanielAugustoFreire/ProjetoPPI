@@ -1,0 +1,20 @@
+{
+  "name": "projetoppi",
+  "version": "1.0.0",
+  "description": "Projetinho Topzera",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/DanielAugustoFreire/ProjetoPPI.git)"
+  },
+  "author": "Daniel Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
